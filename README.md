@@ -1,7 +1,7 @@
 # **<div align="center"><👋 Hello Friends/></div>**  
   
 
-### <div align="center">I'm Ferhat, a full-time full-stack developer 👨‍💻 working remotely since 2019🚀</div>  
+### <div align="center">I'm Ferhat, a full-time jr-full-stack developer 👨‍💻 working remotely since 2019🚀</div>  
   
 
 - 🔭 I’m currently working on [35inch.com](https://35inch.com)  
